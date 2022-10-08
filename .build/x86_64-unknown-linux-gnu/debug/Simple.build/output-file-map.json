@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/main.swift": {
+    "dependencies": "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/vijay-vemulapalli/projects/sort/Sort-Analysis/Selection-Sort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
